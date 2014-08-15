@@ -1,8 +1,7 @@
 {
     "name": "--PROJECT_NAME--",
     "version": "0.0.0",
-    "description": "",
-    "main": "index.js",
+    "description": "--DESCRIPTION--",
     "dependencies": {
         "grunt-contrib-compass": "~0.9.1",
         "grunt": "~0.4.5"
@@ -11,7 +10,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "--AUTHOR--",
-    "license": "Proprietary",
+    "license": "--LICENCE--",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-jshint": "~0.10.0",

@@ -1,8 +1,8 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
-	"license": "MIT",
+	"name": "vitre/laravel-seed",
+	"description": "Laravel app seed",
+	"keywords": ["php", "framework", "laravel"],
+	"license": "--LICENCE--",
 	"require": {
 		"laravel/framework": "4.2.*"
 	},
