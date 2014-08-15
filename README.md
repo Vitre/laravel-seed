@@ -12,12 +12,35 @@ PHP Laravel app seed with Foundation
 
 ## Replacement tags
 
---PROJECT_NAME--
+### vitre/laravel-seed
 
-vitre/laravel-seed
+- composer.json
 
---AUTHOR--
+### --PROJECT_NAME--
 
---LICENCE--
+ - bower.json
+ - package.json
+ - app/views/layouts/page.blade.php
+ - app/views/layouts/_header.blade.php
 
---DESCRIPTION--
+### --AUTHOR--
+
+ - composer.json
+ - package.json
+
+### --LICENCE--
+
+ - composer.json
+ - package.json
+
+### --DESCRIPTION--
+
+ - package.json
+
+### --LANG--
+
+ - app/views/layouts/page.blade.php
+
+### --UNAME--
+
+ - bootstrap/stat.php

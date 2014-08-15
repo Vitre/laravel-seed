@@ -5,3 +5,5 @@ node_modules
 /.sass-cache/*
 *.DS_Store
 /atlassian-ide-plugin.xml
+/public/packages
+/public/assets/@
